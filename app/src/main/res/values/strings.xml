@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BMI calculator</string>
+    <string name="name">Name</string>
+    <string name="nameHint">enter name</string>
+    <string name="enterButton">Enter</string>
+    <string name="welcomingMsg">Hi</string>
+    <string name="getName">TextView</string>
+    <string name="weight">Name</string>
+    <string name="weightView">Weight</string>
+    <string name="weightHint">In KG</string>
+    <string name="heightHint">In Meters</string>
+    <string name="heightText">height</string>
+    <string name="statusLabel">Status</string>
+</resources>
